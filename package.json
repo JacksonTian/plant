@@ -1,0 +1,20 @@
+{
+  "name": "@jacksontian/plant",
+  "version": "0.1.0",
+  "description": "A web framwork",
+  "main": "lib/plant.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha -R spec test/**/*.test.js",
+    "cov": "c8 npm test",
+    "lint": "eslint --fix ./lib/*.js ./*.js"
+  },
+  "keywords": ["plant", "Web", "Framework"],
+  "author": "Jackson Tian",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^9.22.0",
+    "mocha": "^11.1.0",
+    "c8": "^10.1.3"
+  }
+}
