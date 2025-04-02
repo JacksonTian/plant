@@ -2,6 +2,11 @@
 
 ## Features
 
+- Full ECMAScript module mechanism
+- No buid step
+
+## Roadmap
+
 - [ ] route params
-- [ ] middlewares
+- [x] middlewares
 - [ ] view templates
