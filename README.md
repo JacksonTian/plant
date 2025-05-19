@@ -3,10 +3,16 @@
 ## Features
 
 - Full ECMAScript module mechanism
-- No buid step
+- No build step
 
 ## Roadmap
 
-- [ ] route params
+- [x] route params
 - [x] middlewares
 - [ ] view templates
+- [ ] cluster
+- [ ] job scheduler
+
+## License
+
+The [MIT License](./LICENSE).
